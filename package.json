@@ -1,41 +1,49 @@
 {
-    "name": "cyberpunk2077-theme",
-    "displayName": "Cyberpunk 2077",
-    "description": "A theme inspired by CD Projekt RED's Cyberpunk 2077",
-    "version": "1.0.1",
-    "publisher": "JWSandeman",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jwsandeman/cyberpunk2077-theme"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "jwsandeman",
-        "cyberpunk2077",
-        "cyberpunk2077-theme",
-        "cyberpunk",
-        "dracula",
-        "abyss",
-        "atlantic night",
-        "moonlight",
-        "palenight",
-        "night owl",
-        "lucy"
-    ],
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "cyberpunk2077",
-                "uiTheme": "vs-dark",
-                "path": "./themes/cyberpunk2077-color-theme.json"
-            }
-        ]
-    }
+	"name": "cyberpunk2077-theme",
+	"displayName": "Cyberpunk 2077",
+	"description": "A theme inspired by CD Projekt RED's Cyberpunk 2077",
+	"version": "1.0.1",
+	"publisher": "JWSandeman",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jwsandeman/cyberpunk2077-theme"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"jwsandeman",
+		"cyberpunk2077",
+		"cyberpunk2077-theme",
+		"cyberpunk",
+		"dracula",
+		"abyss",
+		"atlantic night",
+		"moonlight",
+		"palenight",
+		"night owl",
+		"lucy"
+	],
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "cyberpunk2077",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cyberpunk2077-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0874834b-6b77-4319-952d-a6b3b8daeaf0",
+		"publisherId": "20e2fe8c-cb55-4500-8e21-a05f828f4937",
+		"publisherDisplayName": "JW Sandeman",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false
+	}
 }

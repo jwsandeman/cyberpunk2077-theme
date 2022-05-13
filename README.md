@@ -33,6 +33,7 @@ Now you can access the theme from the Color Theme picker with File > Preferences
 - [codeSTACKr](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
 - [Coder Coder](https://www.youtube.com/watch?v=pGzssFNtWXw)
 - [Dracula Official Theme](https://draculatheme.com/visual-studio-code)
+- [Colour Pallette - Coolors](https://coolors.co/)
 
 ## Support
 
