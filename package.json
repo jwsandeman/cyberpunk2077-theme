@@ -1,0 +1,26 @@
+{
+    "name": "cyberpunk2077-theme",
+    "displayName": "Cyberpunk 2077",
+    "description": "A theme inspired by CD Projekt RED's Cyberpunk 2077",
+    "version": "1.0.1",
+    "publisher": "JWSandeman",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cyberpunk2077",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk2077-color-theme.json"
+            }
+        ]
+    }
+}
