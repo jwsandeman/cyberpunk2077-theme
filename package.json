@@ -6,8 +6,23 @@
     "publisher": "JWSandeman",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/jwsandeman/cyberpunk2077-theme"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "jwsandeman",
+        "cyberpunk2077",
+        "cyberpunk2077-theme",
+        "cyberpunk",
+        "dracula",
+        "abyss",
+        "atlantic night",
+        "moonlight",
+        "palenight",
+        "night owl",
+        "lucy"
+    ],
     "engines": {
         "vscode": "^1.67.0"
     },
