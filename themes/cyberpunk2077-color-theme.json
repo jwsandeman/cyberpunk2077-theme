@@ -973,7 +973,7 @@
         "punctuation.support.type.property-name.end"
       ],
       "settings": {
-        "foreground": "#8BE9FE"
+        "foreground": "#E455AE"
       }
     },
     {
@@ -1067,10 +1067,12 @@
         "punctuation.section.embedded.begin.jsx",
         "punctuation.section.embedded.end.jsx",
         "punctuation.separator.list.comma.css",
+        "punctuation.separator.array.json.comments",
+        "punctuation.separator.array",
         "constant.language.empty-list.haskell"
       ],
       "settings": {
-        "foreground": "#37EBF3"
+        "foreground": "#0E79B2"
       }
     },
     {
