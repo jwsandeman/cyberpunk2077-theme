@@ -675,7 +675,9 @@
         "keyword.operator.assignment",
         "keyword.operator.logical",
         "keyword.operator.comparison",
-        "keyword.operator.arithmetic"
+        "keyword.operator.arithmetic",
+        "keyword.operator.increment",
+        "keyword.operator.relational"
       ],
       "settings": {
         "foreground": "#CB1DCD"
@@ -763,6 +765,10 @@
         "punctuation.definition.type.end",
         "punctuation.section.scope.begin",
         "punctuation.section.scope.end",
+        "punctuation.terminator.statement",
+        "punctuation.separator.parameter",
+        "punctuation.separator.comma",
+        "punctuation.accessor",
         "punctuation.terminator.expression.php",
         "storage.type.generic.java",
         "string.template meta.brace",
