@@ -734,6 +734,7 @@
         "punctuation.definition.entity.other.inherited-class",
         "punctuation.function.swift",
         "punctuation.separator.dictionary.key-value",
+        "punctuation.separator.dictionary.pair.json.comments",
         "punctuation.separator.hash",
         "punctuation.separator.inheritance",
         "punctuation.separator.key-value",
