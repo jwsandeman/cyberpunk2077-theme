@@ -32,8 +32,10 @@ Now you can access the theme from the Color Theme picker with File > Preferences
 
 - [codeSTACKr](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
 - [Coder Coder](https://www.youtube.com/watch?v=pGzssFNtWXw)
+- [VS Code theme colour generator - Coder Coder](https://coder-coder.com/vs-code-theme-color-generator/)
 - [Dracula Official Theme](https://draculatheme.com/visual-studio-code)
-- [Colour Pallette - Coolors](https://coolors.co/)
+- [Cyberpunk 2077 theme colours pallette - cdixon13](https://www.deviantart.com/cdixon13/art/CyberPunk-2077-Palette-879017278)
+- [Colour Pallette generator - Coolors](https://coolors.co/)
 
 ## Support
 
