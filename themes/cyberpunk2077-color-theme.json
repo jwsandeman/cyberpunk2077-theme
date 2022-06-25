@@ -728,13 +728,14 @@
         "meta.group.toml",
         "meta.object-binding-pattern-variable punctuation.destructuring",
         "punctuation.colon.graphql",
+        "punctuation.definition.constant",
         "punctuation.definition.block.scalar.folded.yaml",
         "punctuation.definition.block.scalar.literal.yaml",
         "punctuation.definition.block.sequence.item.yaml",
         "punctuation.definition.entity.other.inherited-class",
         "punctuation.function.swift",
         "punctuation.separator.dictionary.key-value",
-        "punctuation.separator.dictionary.pair.json.comments",
+        "punctuation.separator.dictionary.pair.json",
         "punctuation.separator.hash",
         "punctuation.separator.inheritance",
         "punctuation.separator.key-value",
@@ -742,6 +743,9 @@
         "punctuation.separator.namespace",
         "punctuation.separator.pointer-access",
         "punctuation.separator.slice",
+        "punctuation.separator.method",
+        "punctuation.separator.object",
+        "punctuation.separator.variable",
         "string.unquoted.heredoc punctuation.definition.string",
         "support.other.chomping-indicator.yaml",
         "punctuation.separator.annotation"
@@ -802,7 +806,7 @@
         "punctuation.definition.variable.makefile"
       ],
       "settings": {
-        "foreground": "#0E79B2"
+        "foreground": "#37EBF3"
       }
     },
     {
