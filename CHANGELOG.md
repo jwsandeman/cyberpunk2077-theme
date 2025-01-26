@@ -4,6 +4,9 @@ All notable changes to the "cyberpunk2077" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.4.4] - 2025-01-26
 
-- Initial release
+### Updated
+
+- Updated modified resource scope
+- Updated error theme and scopes
