@@ -2,8 +2,9 @@
 	"name": "cyberpunk2077-theme",
 	"displayName": "Cyberpunk 2077",
 	"description": "A theme inspired by CD Projekt RED's Cyberpunk 2077",
-	"version": "1.4.1",
+	"version": "1.4.2",
 	"publisher": "JWSandeman",
+	"icon": "images/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jwsandeman/cyberpunk2077-theme"
@@ -45,5 +46,8 @@
 		"targetPlatform": "undefined",
 		"updated": false,
 		"isPreReleaseVersion": false
+	},
+	"dependencies": {
+		"generator-code": "^1.11.5"
 	}
 }
